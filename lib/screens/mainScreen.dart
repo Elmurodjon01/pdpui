@@ -43,7 +43,7 @@ class ReusableText extends StatelessWidget {
   Widget build(BuildContext context) {
     return Text(
       label,
-      style: TextStyle(color: define, fontSize: 30.0),
+      style: TextStyle(color: define, fontSize: 38.0),
     );
   }
 }
